@@ -2,21 +2,23 @@
 
 This project creates a simple VPN app UI using UIKit with smooth transitions between three screens. The focus is on UI design and animation, with no backend or VPN functionality.
 
-Screens
-Home Screen: A "Connect" button that transitions to the next screen after a short delay.
+# Screens
 
-Connecting Screen: Displays a loading animation and a progress bar. After 3 seconds, it transitions to the next screen.
+##### Home Screen :
+A "Connect" button that transitions to the next screen after a short delay.
 
-Connection Successful Screen: Shows a success message.
+##### Connecting Screen :
+Displays a loading animation and a progress bar. After 3 seconds, it transitions to the next screen.
 
-Features
-Built with UIKit (no SwiftUI).
+#####  Connection Successful Screen :
+Shows a success message.
 
-Auto Layout for responsiveness on all iPhone sizes.
+# Features
+- Built with UIKit (no SwiftUI).
+- Auto Layout for responsiveness on all iPhone sizes.
+- Smooth screen transitions with a delay.
 
-Smooth screen transitions with a delay.
-
-Setup
-
-Clone the repository:
+# Setup
+##### Clone the repository :
 https://github.com/megha-dey/VPNAssignment.git
+
